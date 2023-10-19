@@ -1,0 +1,65 @@
+
+body{
+    background-color: aquamarine;
+    border: 3px solid blue;
+}
+
+#main{
+    margin: 2rem;
+}
+
+h1{
+    color: lightcoral;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.container1{
+    display: inline-flex;
+    gap: 20px;
+    border: 2px solid blue;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    padding: 1.5rem;
+}
+
+#dtl{
+    padding: 3rem;
+    color: red;
+}
+
+span{
+    color: blueviolet;
+}
+
+table{
+    border: 2px solid blue;
+}
+
+th{
+    color: red;
+}
+
+td{
+    color: blueviolet;
+}
+th,td{
+    border: inset;
+    padding: 5px;
+}
+
+#skills{
+    margin: 0;
+    color: orangered;
+}
+
+ul{
+    margin: 0;
+}
+
+li{
+    color: blueviolet;
+}
